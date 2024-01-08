@@ -33,7 +33,7 @@ License
 This project is licensed under the MIT License.
 
 Contact
-For inquiries and support, please contact us at hanuman200427@gmail.com.
+For inquiries and support, please contact us at dadarsh360@gmail.com.
 
 Acknowledgements
 Special thanks to our development team and the open-source community for making Bold Haven E-commerce possible.
