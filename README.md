@@ -15,7 +15,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/bold-haven-ecommerce.git
+git clone https://github.com/adarshdubey27/Bold-Haven-Ecommerce-Website-.git
 Open the HTML File:
 Open the index.html file in your preferred web browser.
 
